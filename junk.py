@@ -8,3 +8,7 @@ def blah(blahblahblah):
 
 def morePoop():
     pass
+
+
+def addedFromEditsBranch():
+    pass
