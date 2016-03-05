@@ -9,5 +9,10 @@ def blah(blahblahblah):
 def morePoop():
     pass
 
+
 def addedFromWebsite():
+    pass
+
+def addedFromEditsBranch():
+
     pass
